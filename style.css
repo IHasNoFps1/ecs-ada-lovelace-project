@@ -1,7 +1,12 @@
-body {
-  background-color: lightblue;
+body{
+ background-color: #248000;
 }
-
-h1 {
-  color: darkblue;
+h1{
+ color: #f8a400;
+ text-align: center;
+}
+hr{
+ border: none;
+ height: 1px;
+ background-color: #eee;
 }
